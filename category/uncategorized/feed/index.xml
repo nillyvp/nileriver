@@ -10,7 +10,7 @@
 <channel>
 	<title>Uncategorized &#8211; Nile River Data Science</title>
 	<atom:link href="http://localhost/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://nillyvp.github.io/nileriver/</link>
+	<link>http://nillyvp.github.io/nileriver/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 05 Feb 2022 12:46:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://nillyvp.github.io/nileriver/2022/02/05/hello-world/</link>
-					<comments>/https://nillyvp.github.io/nileriver/2022/02/05/hello-world/#comments</comments>
+		<link>http://nillyvp.github.io/nileriver/2022/02/05/hello-world/</link>
+					<comments>http://nillyvp.github.io/nileriver/2022/02/05/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[nillyvp]]></dc:creator>
 		<pubDate>Sat, 05 Feb 2022 12:46:42 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://nillyvp.github.io/nileriver/?p=1</guid>
+		<guid isPermaLink="false">http://nillyvp.github.io/nileriver/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://nillyvp.github.io/nileriver/2022/02/05/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://nillyvp.github.io/nileriver/2022/02/05/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
